@@ -1,3 +1,7 @@
+/*If we try to overload operators using friend fucntions-
+1.For unary operator we have to pass One Argument
+2.For binary operator we have to pass Tow arguments.*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
